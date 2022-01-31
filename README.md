@@ -10,6 +10,8 @@ https://xkcd.com/2117/
 
 ## Семинар 3
 
+https://math.hse.ru/data/2012/10/08/1243872166/matan2.1-1.pdf
+
 https://www.youtube.com/watch?v=yuVZGh400a0
 
 ## Семинар 4
