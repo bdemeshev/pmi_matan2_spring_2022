@@ -16,7 +16,17 @@ https://www.youtube.com/watch?v=yuVZGh400a0
 
 ## Семинар 4
 
-http://www.medicine.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheoryChapter7.pdf
+* http://www.medicine.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/JaynesProbabilityTheoryChapter7.pdf
 
-https://en.wikipedia.org/wiki/Visual_calculus
+Вывод совместной нормальной плотности из аксиом Хершела-Максвелла.
+
+* https://en.wikipedia.org/wiki/Visual_calculus
+
+Подход Мамикона к геометрическому вычислению интегралов через параллельный перенос касательных отрезков
+
+* https://www.youtube.com/watch?v=GF4KaXB4IGg
+
+Интеграл Дирихле под музыку
+
+
 
