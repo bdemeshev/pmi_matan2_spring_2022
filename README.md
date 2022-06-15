@@ -132,6 +132,10 @@ http://www.systems.caltech.edu/dsp/ppv/papers/journal08post/PPVIETEeigenFT.pdf
 
 # Мнимая часть 
 
+* Petra, Analysis of a complex kind
+
+https://www.youtube.com/watch?v=CVpMpZpd-5s&list=PLi7yHjesblV0sSfZzWdSUXGO683n_nJdQ
+
 * Complex analysis course 
 
 https://www.youtube.com/watch?v=exTsBIQoxcI&list=PLHjOMouVJ7UXj9RqccYzktlz9DQdE6l66
@@ -200,6 +204,11 @@ https://www.youtube.com/watch?v=IbyDlBSUN0o
 * contour integration for Basel problem, Fresnel integral, sin(x)/x etc
 
 https://www.youtube.com/watch?v=VbDhg4PdHIg&list=PLIwQBM83cIsraCevdQfwAN-Bih2ToAUYL
+
+
+* Fong, Differential forms, Conversations in complex analysis, etc
+
+https://people.math.carleton.ca/~ckfong/
 
 
 # Хорошие источники про производящие функции 
